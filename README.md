@@ -40,3 +40,13 @@ Activity 3:
 <img width="1088" alt="Screenshot 2023-09-30 at 5 41 05 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/1f57af03-1436-4c7d-b16f-8d2ed372dd44">
 
 
+Activity 4:
+>screenshot of the repo
+<img width="1358" alt="Screenshot 2023-09-30 at 6 55 15 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/f231ae3f-c379-44aa-b86c-9d776f2d856a">
+
+
+>screenshot of the embedded map on the website
+<img width="1208" alt="Screenshot 2023-09-30 at 6 54 22 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/048a466b-a4b8-446d-8511-0932f36909eb">
+
+
+

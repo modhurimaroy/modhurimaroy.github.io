@@ -29,3 +29,14 @@ Activity 2:
 <img width="1281" alt="Screenshot 2023-09-30 at 3 50 44 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/80304aa0-976d-4ea3-ba75-a0c3c303c911">
 
 
+Activity 3:
+
+> screenshot of the repo
+
+<img width="1411" alt="Screenshot 2023-09-30 at 5 42 14 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/89b34626-b4bc-435f-a97b-1a073f44c7d0">
+
+> screenshot of the website with changed color theme
+
+<img width="1088" alt="Screenshot 2023-09-30 at 5 41 05 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/1f57af03-1436-4c7d-b16f-8d2ed372dd44">
+
+

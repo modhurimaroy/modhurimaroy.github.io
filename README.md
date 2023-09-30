@@ -37,7 +37,7 @@ Activity 3:
 
 > screenshot of the website with changed color theme
 
-<img width="1088" alt="Screenshot 2023-09-30 at 5 41 05 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/1f57af03-1436-4c7d-b16f-8d2ed372dd44">
+<img width="1216" alt="Screenshot 2023-09-30 at 7 03 45 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/ead344cd-f631-4d4c-82cf-921bf43c1558">
 
 
 Activity 4:
@@ -46,7 +46,8 @@ Activity 4:
 
 
 >screenshot of the embedded map on the website
-<img width="1208" alt="Screenshot 2023-09-30 at 6 54 22 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/048a466b-a4b8-446d-8511-0932f36909eb">
+<img width="1296" alt="Screenshot 2023-09-30 at 7 05 32 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/c2ed7362-45ae-47f5-8e7a-0ec0aeeb4a05">
+
 
 
 

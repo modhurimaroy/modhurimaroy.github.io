@@ -46,7 +46,8 @@ Activity 4:
 
 
 >screenshot of the embedded map on the website
-<img width="1296" alt="Screenshot 2023-09-30 at 7 05 32 PM" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/c2ed7362-45ae-47f5-8e7a-0ec0aeeb4a05">
+<img width="1365" alt="image" src="https://github.com/modhurimaroy/modhurimaroy.github.io/assets/65404767/36192d78-2f64-4635-bf97-3d7634519a04">
+
 
 
 

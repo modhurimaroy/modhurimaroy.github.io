@@ -10,7 +10,7 @@ comments: true
 # media_subpath: '/posts/20180809'
 ---
 
-2024 so far has been a year of major transitions and I can confirm that no matter how well you prepare or how much your overthink your major life changes, you cannot escape the anxiety, or worse, the feeling of existentialism. 
+2024 so far has been a year of major transitions and I can confirm that no matter how well you prepare or how much you overthink all the possible scenarios of a given situation, you cannot escape the anxiety, or worse, the feeling of existentialism. 
 
 I was expecting that graduation would perhaps being me a sense of accomplishment, or maybe getting a job offer would bring me the satisfaction that I am indeed a skilled human being capable of creating value. The relief of securing a job in this challenging economy was quickly overshadowed by the realization that it’s just one step towards the bigger goal, not the end goal, and that there is more to life than being a labor in the workforce with skills and capabilities to slave away. Many people, including me, had the expectation that after graduating and securing a job, I should feel happy and fulfilled. But when that feeling did not immediately materialize, it led me to question about what actually brings fulfillment in my life.
 
